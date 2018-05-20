@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{87C341C6-CE20-4D06-9E8A-A30FD736A65B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPrinter", "Printer\ColorPrinter.csproj", "{87C341C6-CE20-4D06-9E8A-A30FD736A65B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
